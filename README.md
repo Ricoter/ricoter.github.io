@@ -1,3 +1,3 @@
 # ricoter.github.io
 
-Exploring github pages to show my project to the world
+Exploring github pages to show my projects to the world
